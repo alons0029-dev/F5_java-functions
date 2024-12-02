@@ -1,4 +1,3 @@
-# :circus_tent: Funciones en Java
 
 ### Introducción
 Este archivo contiene varios ejercicios para poder practicar el uso de funciones. Dentro de cada archivo, se encuentran las instrucciones específicas. Vamos a resolver los ejercicios en el siguiente orden:
